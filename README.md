@@ -8,7 +8,7 @@
 
 Hands-on lab step-by-step
 
-Feb 2020
+
 
 Information in this document, including URL and other Internet Web site
 references, is subject to change without notice. Unless otherwise noted,
@@ -46,12 +46,6 @@ is providing these links to you only as a convenience, and the inclusion
 of any link does not imply endorsement of Microsoft of the site or the
 products contained therein.
 
-© 2018 Microsoft Corporation. All rights reserved.
-
-Microsoft and the trademarks listed at
-<https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/Usage/General.aspx>
-are trademarks of the Microsoft group of companies. All other trademarks
-are property of their respective owners.
 
 # Azure Data Factory hands-on lab
 
